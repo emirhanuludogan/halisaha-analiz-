@@ -18,7 +18,7 @@ Analiz sürecinin ham görüntüden anlamlı veriye dönüşümü aşağıdaki g
 | :---: | :---: | :---: | :---: |
 | ![Ham](assets/camera1.jpg) | ![Takip](assets/camera2.jpg) | ![Analiz](assets/camera3.jpg) | ![Sonuç](assets/camera4.jpg) |
 
-*Not: Görseller, ham video kaydı ile analiz edilmiş çıktı arasındaki farkı ve sistemin sahadaki yoğunluğu nasıl tespit ettiğini göstermektedir.*
+*Not: Görseller, ham video kaydı ile analiz edilmiş çıktı arasındaki farkı ve sistemin sahadaki yoğunluğu nasıl tespit ettiğini göstermektedir. Harici görsellere ulaşmak için assets klasörünü inceleyebilirsiniz. *
 
 ## Nasıl Çalıştırılır?
 1. `pip install -r requirements.txt`
